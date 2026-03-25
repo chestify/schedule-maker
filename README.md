@@ -21,7 +21,7 @@ ScheduleMaker is a Windows desktop app designed for teachers and tutors who need
 ## Learn More
 
 - Class weekly schedule maker: https://schedulemaker.co/class-weekly-schedule-maker.html  
-- Weekly class schedule generator: https://schedulemaker.co/Weekly-Class-Schedule-Generator.html
+- Weekly class schedule generator: https://schedulemaker.co/Weekly-class-schedule-generator.html
 
 
 ## Download
